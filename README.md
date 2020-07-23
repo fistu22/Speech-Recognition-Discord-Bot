@@ -1,2 +1,4 @@
 # Speech-Recognition-Discord-Bot
-jestem głupi
+Welcome to Sppech Recognition Bot for your discord server!
+
+**To Do List**
